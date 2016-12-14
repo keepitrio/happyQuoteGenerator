@@ -1,1 +1,1 @@
-# happyQuoteGenerator
+Click the button to get a random happy quote!
