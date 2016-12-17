@@ -1,0 +1,36 @@
+body {
+  font-family: arial, sans-serif;
+  background-color: #183642;
+  top: 50%;
+}
+
+h1 {
+  text-align: center;
+  color: #9BC1BC;
+}
+
+#quoteG {
+    height: 600px;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 2em;
+}
+
+#quoteDisplay {
+  text-align: center;
+  color: #EAEAEA;
+  padding-bottom: 20px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.button {
+  background-color: #FFF;
+  border: none;
+  color: #183642;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
